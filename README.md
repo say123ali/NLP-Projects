@@ -11,5 +11,5 @@ Part-of-speech tagging is mainly used in the field of text mining and NLP. It is
 ### Technology used: 
 Anaconda Python 3.6 , Pytorch 1.4 with GPU support CUDA 10 with CuDNN 10. Install the necessary packages from requirements.txt file using the command pip install -r requirements.txt
 
-![resultimage](result.jpg)
+![resultimage](result.JPG)
 
