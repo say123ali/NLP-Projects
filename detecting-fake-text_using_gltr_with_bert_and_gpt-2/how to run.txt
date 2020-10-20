@@ -1,0 +1,5 @@
+first way = python server.py
+
+GLTR currently supports two models – BERT and GPT-2. You can choose between the two; if no option is given then GPT-2 is used:
+
+second way = python server.py --model BERT
