@@ -89,7 +89,7 @@ jdcal==1.4
 jedi==0.13.2
 jeepney==0.4
 jellyfish==0.7.2
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.5
 joblib==0.14.1
 jsonschema==2.6.0
