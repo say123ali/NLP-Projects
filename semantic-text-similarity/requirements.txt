@@ -59,7 +59,7 @@ fastprogress==0.2.2
 filelock==3.0.10
 fire==0.3.1
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 future==0.17.1
 fuzzywuzzy==0.18.0
 gast==0.3.3
