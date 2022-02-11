@@ -24,7 +24,7 @@ olefile==0.44
 pandas==0.20.3
 pbr==3.1.1
 Pillow==4.2.1
-protobuf==3.3.0
+protobuf==3.15.0
 PyYAML==3.12
 scikit-learn==0.19.0
 scipy==0.19.1
